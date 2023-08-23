@@ -1,0 +1,16 @@
+body
+{
+    color: black;
+    background-color: rgb(52, 177, 177);
+    padding: 50px 50px;
+}
+
+img{
+    width: 900px;
+    height: 500px;
+}
+
+footer{
+    text-align: center;
+}
+
